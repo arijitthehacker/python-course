@@ -3,4 +3,4 @@
 
 
 def addFunction(a, b):
-    return int(a+b)
+    return str(a+b)
